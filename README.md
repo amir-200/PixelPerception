@@ -1,5 +1,5 @@
 
-![Logo](image/Upper_moon_logo.jpg)
+![Logo](Images/Upper_moon_logo.jpg)
 
 
 ## Team members
