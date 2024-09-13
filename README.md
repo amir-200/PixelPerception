@@ -103,7 +103,20 @@ Machine Learning Model Approach
 
 11. Model Deployment: The trained model is deployed for real-time image classification tasks.
 ## Result
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+- This is the prediction of the model
+![Dog](Images/Result_dog_terminal.jpg)
+
+- This is the image that the modal was trying to identify 
+![Dog](Images/Result_dog.jpg)
+
+## Accuracy 
+- This is the Accuracy of our model
+![Dog](Images/Accuracy.jpg)
+
+
+
+
 
 ## Dependences
 
