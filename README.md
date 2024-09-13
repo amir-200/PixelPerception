@@ -12,6 +12,7 @@
 **[Ayan Shaikh](https://github.com/ayan4955G/)**
 -
 - Email - ayanshaikhdev@gmail.com
+- [Leetcode](https://leetcode.com/u/THE_ayanshaikh_/)
 
 **[Ovais Patel](https://www.github.com/octokatherine)**
 -
